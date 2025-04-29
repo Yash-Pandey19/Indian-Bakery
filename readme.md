@@ -49,7 +49,11 @@ http://localhost:80
 ![Output 2](images/docker-home.png)
 ![Output 3](images/bakery-running.png)
 
+## Small Explaaination Video 
+```
+https://youtu.be/yXPUUU5XfG4
 
+```
 ## Contribution Welcome!
 
 1. Fork the repository
